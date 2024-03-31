@@ -66,4 +66,8 @@ Let's take a look at a few graphs for each location to see what the trend in par
 
 ![Figure_1](https://github.com/rd9437/test/assets/143277515/5d650540-ac5a-4e79-a2dc-ae9e6e372a64)
 
-There seems to be a pattern to the parking occupancy, which makes sense. People may use certain parking areas more often during lunch hours if there are places to eat nearby. Most areas will also see higher parking rates during weekdays.
+
+There seems to be a pattern to the parking occupancy, which makes sense. 
+
++ People may use certain parking areas more often during lunch hours if there are places to eat nearby.
++ Most areas will also see higher parking rates during weekdays.
